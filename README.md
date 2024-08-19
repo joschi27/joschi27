@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joschi27
-- 👀 I’m interested in VR/AR, C# .net, Full Stack, Visual Image F\*ckery, Gamedev and AI.
-- 🌱 I’m currently learning nodejs and such.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in VR/AR, C# .net, Full Stack, Visual Computing, Gamedev, AI and more.
+- 🌱 I’m currently learning everything.
 - 📫 How to reach me: Base64Decode(Z2Fod2Vn) + "@protonmail.com"
 
 <!---
